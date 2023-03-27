@@ -1,6 +1,4 @@
-# gabbbbbbbbbby.github.io
+# gabbbbbbbbbby
 
 
-# My name is Gabby!
 
-#### This is kind of like Obsidian.
